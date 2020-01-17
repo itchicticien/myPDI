@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>PDI</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>PDI</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">5b25a7851b020010336031d7dc4bcb8b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 19:55:15</sys_created_on>
+        <sys_id>34dc461f1b1a0010336031d7dc4bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PDI</sys_name>
+        <sys_package display_value="myPDI" source="x_25656_mypdi">7c4cc6db1b1a0010336031d7dc4bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myPDI">7c4cc6db1b1a0010336031d7dc4bcba9</sys_scope>
+        <sys_update_name>sys_wizard_answer_34dc461f1b1a0010336031d7dc4bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 19:55:15</sys_updated_on>
+        <table/>
+        <target_url>x_25656_mypdi_pdi.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

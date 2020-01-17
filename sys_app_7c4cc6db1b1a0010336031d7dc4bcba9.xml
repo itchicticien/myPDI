@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>9d4cca131b120010336031d7dc4bcbee</logo>
+        <menu/>
+        <name>myPDI</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_25656_mypdi</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>PDI Demo</short_description>
+        <source>x_25656_mypdi</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 19:52:48</sys_created_on>
+        <sys_id>7c4cc6db1b1a0010336031d7dc4bcba9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 19:52:50</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>partnership (1).png</file_name>
+        <hash>87f61154079119249beda3ec8a7da1b9009cfd91ef48f887f8f593372751a7aa</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1812</size_bytes>
+        <size_compressed>1815</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 19:52:49</sys_created_on>
+        <sys_id>9d4cca131b120010336031d7dc4bcbee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-01-17 19:52:50</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>7c4cc6db1b1a0010336031d7dc4bcba9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="partnership (1).png" sys_id="9d4cca131b120010336031d7dc4bcbee">9d4cca131b120010336031d7dc4bcbee</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 19:52:49</sys_created_on>
+        <sys_id>dd4cca131b120010336031d7dc4bcbee</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2408</length>
+        <position>1</position>
+        <sys_attachment display_value="partnership (1).png" sys_id="9d4cca131b120010336031d7dc4bcbee">9d4cca131b120010336031d7dc4bcbee</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 19:52:49</sys_created_on>
+        <sys_id>514cca131b120010336031d7dc4bcbef</sys_id>
+    </sys_attachment_doc>
+</record_update>
